@@ -1,0 +1,8 @@
+c:\users\faiq\documents\visual studio 2010\Projects\huffmanProject\huffmanProject\bin\Debug\huffmanProject.exe
+c:\users\faiq\documents\visual studio 2010\Projects\huffmanProject\huffmanProject\bin\Debug\huffmanProject.pdb
+c:\users\faiq\documents\visual studio 2010\Projects\huffmanProject\huffmanProject\obj\x86\Debug\huffmanProject.Form1.resources
+c:\users\faiq\documents\visual studio 2010\Projects\huffmanProject\huffmanProject\obj\x86\Debug\huffmanProject.Properties.Resources.resources
+c:\users\faiq\documents\visual studio 2010\Projects\huffmanProject\huffmanProject\obj\x86\Debug\huffmanProject.csproj.GenerateResource.Cache
+c:\users\faiq\documents\visual studio 2010\Projects\huffmanProject\huffmanProject\obj\x86\Debug\huffmanProject.exe
+c:\users\faiq\documents\visual studio 2010\Projects\huffmanProject\huffmanProject\obj\x86\Debug\huffmanProject.pdb
+C:\Users\faiq\documents\visual studio 2010\Projects\huffmanProject\huffmanProject\obj\x86\Debug\huffmanProject.csprojResolveAssemblyReference.cache
